@@ -8,7 +8,7 @@
 This project analyzes **Myntra's product experience** with a focused deep dive into **cart/wishlist abandonment**, **checkout friction**, and **pricing trust issues**. Based on primary research ($n=50$) and extensive secondary research (Reddit, App Store reviews), we proposed actionable feature additions (**24-Hour Price Lock** & **Transparent Pricing**) and validated their prospective impact on North Star Metrics.
 
 * **Team:** Vistaar Ventures (Sagar, Sourav, Priya)
-* **Live Demo Prototype (Web):** [[Live Prototype Link]((https://attached-assets--sourav23248.replit.app/))]
+* **Live Demo Prototype (Web):** https://attached-assets--sourav23248.replit.app/
 * **App PRD & Prototype:** Accessible via Expo Go / Replit
 
 ---
