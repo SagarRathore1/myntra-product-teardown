@@ -9,7 +9,7 @@ This project analyzes **Myntra's product experience** with a focused deep dive i
 
 * **Team:** Vistaar Ventures (Sagar, Sourav, Priya)
 * **Deck Link:** https://drive.google.com/file/d/1n3d3EnekNRF3nysQCz5icgO5-KM_emIK/view?usp=sharing
-* **Live Demo Prototype (Web):** https://attached-assets--sourav23248.replit.app/
+* **Live Demo Prototype (Web):**(https://attached-assets--sourav23248.replit.app/)
 * **App PRD & Prototype:** Accessible via Expo Go / Replit
 
 ---
